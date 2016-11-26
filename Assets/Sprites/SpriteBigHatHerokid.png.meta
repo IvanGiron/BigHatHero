@@ -1,0 +1,338 @@
+fileFormatVersion: 2
+guid: cc974e83bd8640c46bb050f4bc2d8d24
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: SpriteBigHatHerokid_0
+    21300002: espada
+    21300004: Brazo izk
+    21300006: Cuerpo
+    21300008: Brazo dere
+    21300010: Pierna izk
+    21300012: pierda dere
+    21300014: Cabeza
+    21300016: SpriteBigHatHerokid_8
+    21300018: SpriteBigHatHerokid_9
+    21300020: SpriteBigHatHerokid_10
+    21300022: SpriteBigHatHerokid_11
+    21300024: SpriteBigHatHerokid_12
+    21300026: SpriteBigHatHerokid_13
+    21300028: SpriteBigHatHerokid_14
+    21300030: SpriteBigHatHerokid_15
+    21300032: SpriteBigHatHerokid_16
+    21300034: SpriteBigHatHerokid_17
+    21300036: SpriteBigHatHerokid_18
+    21300038: SpriteBigHatHerokid_19
+    21300040: SpriteBigHatHerokid_20
+    21300042: SpriteBigHatHerokid_21
+    21300044: SpriteBigHatHerokid_22
+    21300046: SpriteBigHatHerokid_23
+    21300048: SpriteBigHatHerokid_24
+    21300050: SpriteBigHatHerokid_25
+    21300052: SpriteBigHatHerokid_26
+    21300054: SpriteBigHatHerokid_27
+    21300056: SpriteBigHatHerokid_28
+    21300058: SpriteBigHatHerokid_29
+    21300060: SpriteBigHatHerokid_30
+    21300062: SpriteBigHatHerokid_31
+    21300064: SpriteBigHatHerokid_32
+    21300066: SpriteBigHatHerokid_33
+    21300068: SpriteBigHatHerokid_34
+    21300070: SpriteBigHatHerokid_35
+    21300072: SpriteBigHatHerokid_36
+    21300074: SpriteBigHatHerokid_37
+    21300076: SpriteBigHatHerokid_38
+    21300078: SpriteBigHatHerokid_39
+    21300080: SpriteBigHatHerokid_40
+    21300082: SpriteBigHatHerokid_41
+    21300084: SpriteBigHatHerokid_42
+    21300086: SpriteBigHatHerokid_43
+    21300088: SpriteBigHatHerokid_44
+    21300090: SpriteBigHatHerokid_45
+    21300092: SpriteBigHatHerokid_46
+    21300094: SpriteBigHatHerokid_47
+    21300096: SpriteBigHatHerokid_48
+    21300098: SpriteBigHatHerokid_49
+    21300100: SpriteBigHatHerokid_50
+    21300102: SpriteBigHatHerokid_51
+    21300104: SpriteBigHatHerokid_52
+    21300106: SpriteBigHatHerokid_53
+    21300108: SpriteBigHatHerokid_54
+    21300110: SpriteBigHatHerokid_55
+    21300112: SpriteBigHatHerokid_56
+    21300114: SpriteBigHatHerokid_57
+    21300116: SpriteBigHatHerokid_58
+    21300118: SpriteBigHatHerokid_59
+    21300120: SpriteBigHatHerokid_60
+    21300122: SpriteBigHatHerokid_61
+    21300124: SpriteBigHatHerokid_62
+    21300126: SpriteBigHatHerokid_63
+    21300128: SpriteBigHatHerokid_64
+    21300130: SpriteBigHatHerokid_65
+    21300132: SpriteBigHatHerokid_66
+    21300134: SpriteBigHatHerokid_67
+    21300136: SpriteBigHatHerokid_68
+    21300138: SpriteBigHatHerokid_69
+    21300140: SpriteBigHatHerokid_70
+    21300142: SpriteBigHatHerokid_71
+    21300144: SpriteBigHatHerokid_72
+    21300146: SpriteBigHatHerokid_73
+    21300148: SpriteBigHatHerokid_74
+    21300150: SpriteBigHatHerokid_75
+    21300152: SpriteBigHatHerokid_76
+    21300154: SpriteBigHatHerokid_77
+    21300156: SpriteBigHatHerokid_78
+    21300158: SpriteBigHatHerokid_79
+    21300160: SpriteBigHatHerokid_80
+    21300162: SpriteBigHatHerokid_81
+    21300164: SpriteBigHatHerokid_82
+    21300166: SpriteBigHatHerokid_83
+    21300168: SpriteBigHatHerokid_84
+    21300170: SpriteBigHatHerokid_85
+    21300172: SpriteBigHatHerokid_86
+    21300174: SpriteBigHatHerokid_87
+    21300176: SpriteBigHatHerokid_88
+    21300178: SpriteBigHatHerokid_89
+    21300180: SpriteBigHatHerokid_90
+    21300182: SpriteBigHatHerokid_91
+    21300184: SpriteBigHatHerokid_92
+    21300186: SpriteBigHatHerokid_93
+    21300188: SpriteBigHatHerokid_94
+    21300190: SpriteBigHatHerokid_95
+    21300192: SpriteBigHatHerokid_96
+    21300194: SpriteBigHatHerokid_97
+    21300196: SpriteBigHatHerokid_98
+    21300198: SpriteBigHatHerokid_99
+    21300200: SpriteBigHatHerokid_100
+    21300202: SpriteBigHatHerokid_101
+    21300204: SpriteBigHatHerokid_102
+    21300206: SpriteBigHatHerokid_103
+    21300208: SpriteBigHatHerokid_104
+    21300210: SpriteBigHatHerokid_105
+    21300212: SpriteBigHatHerokid_106
+    21300214: SpriteBigHatHerokid_107
+    21300216: SpriteBigHatHerokid_108
+    21300218: SpriteBigHatHerokid_109
+    21300220: SpriteBigHatHerokid_110
+    21300222: SpriteBigHatHerokid_111
+    21300224: SpriteBigHatHerokid_112
+    21300226: SpriteBigHatHerokid_113
+    21300228: SpriteBigHatHerokid_114
+    21300230: SpriteBigHatHerokid_115
+    21300232: SpriteBigHatHerokid_116
+    21300234: SpriteBigHatHerokid_117
+    21300236: SpriteBigHatHerokid_118
+    21300238: SpriteBigHatHerokid_119
+    21300240: SpriteBigHatHerokid_120
+    21300242: SpriteBigHatHerokid_121
+    21300244: SpriteBigHatHerokid_122
+    21300246: SpriteBigHatHerokid_123
+    21300248: SpriteBigHatHerokid_124
+    21300250: SpriteBigHatHerokid_125
+    21300252: SpriteBigHatHerokid_126
+    21300254: SpriteBigHatHerokid_127
+    21300256: SpriteBigHatHerokid_128
+    21300258: SpriteBigHatHerokid_129
+    21300260: SpriteBigHatHerokid_130
+    21300262: SpriteBigHatHerokid_131
+    21300264: SpriteBigHatHerokid_132
+    21300266: SpriteBigHatHerokid_133
+    21300268: SpriteBigHatHerokid_134
+    21300270: SpriteBigHatHerokid_135
+    21300272: SpriteBigHatHerokid_136
+    21300274: SpriteBigHatHerokid_137
+    21300276: SpriteBigHatHerokid_138
+    21300278: SpriteBigHatHerokid_139
+    21300280: SpriteBigHatHerokid_140
+    21300282: SpriteBigHatHerokid_141
+    21300284: SpriteBigHatHerokid_142
+    21300286: SpriteBigHatHerokid_143
+    21300288: SpriteBigHatHerokid_144
+    21300290: SpriteBigHatHerokid_145
+    21300292: SpriteBigHatHerokid_146
+    21300294: SpriteBigHatHerokid_147
+    21300296: SpriteBigHatHerokid_148
+    21300298: SpriteBigHatHerokid_149
+    21300300: SpriteBigHatHerokid_150
+    21300302: SpriteBigHatHerokid_151
+    21300304: SpriteBigHatHerokid_152
+    21300306: SpriteBigHatHerokid_153
+    21300308: SpriteBigHatHerokid_154
+    21300310: SpriteBigHatHerokid_155
+    21300312: SpriteBigHatHerokid_156
+    21300314: SpriteBigHatHerokid_157
+    21300316: SpriteBigHatHerokid_158
+    21300318: SpriteBigHatHerokid_159
+    21300320: SpriteBigHatHerokid_160
+    21300322: SpriteBigHatHerokid_161
+    21300324: SpriteBigHatHerokid_162
+    21300326: SpriteBigHatHerokid_163
+    21300328: SpriteBigHatHerokid_164
+    21300330: SpriteBigHatHerokid_165
+    21300332: SpriteBigHatHerokid_166
+    21300334: SpriteBigHatHerokid_167
+    21300336: SpriteBigHatHerokid_168
+    21300338: SpriteBigHatHerokid_169
+    21300340: SpriteBigHatHerokid_170
+    21300342: SpriteBigHatHerokid_171
+    21300344: SpriteBigHatHerokid_172
+    21300346: SpriteBigHatHerokid_173
+    21300348: SpriteBigHatHerokid_174
+    21300350: SpriteBigHatHerokid_175
+    21300352: SpriteBigHatHerokid_176
+    21300354: SpriteBigHatHerokid_177
+    21300356: SpriteBigHatHerokid_178
+    21300358: SpriteBigHatHerokid_179
+    21300360: SpriteBigHatHerokid_180
+    21300362: SpriteBigHatHerokid_181
+    21300364: SpriteBigHatHerokid_182
+    21300366: SpriteBigHatHerokid_183
+    21300368: SpriteBigHatHerokid_184
+    21300370: SpriteBigHatHerokid_185
+    21300372: SpriteBigHatHerokid_186
+    21300374: SpriteBigHatHerokid_187
+    21300376: SpriteBigHatHerokid_188
+    21300378: SpriteBigHatHerokid_189
+    21300380: SpriteBigHatHerokid_190
+    21300382: SpriteBigHatHerokid_191
+    21300384: SpriteBigHatHerokid_192
+    21300386: SpriteBigHatHerokid_193
+    21300388: SpriteBigHatHerokid_194
+    21300390: SpriteBigHatHerokid_195
+    21300392: SpriteBigHatHerokid_196
+    21300394: SpriteBigHatHerokid_197
+    21300396: SpriteBigHatHerokid_198
+    21300398: SpriteBigHatHerokid_199
+    21300400: SpriteBigHatHerokid_200
+    21300402: SpriteBigHatHerokid_201
+    21300404: SpriteBigHatHerokid_202
+    21300406: SpriteBigHatHerokid_203
+    21300408: SpriteBigHatHerokid_204
+    21300410: SpriteBigHatHerokid_205
+    21300412: SpriteBigHatHerokid_206
+    21300414: SpriteBigHatHerokid_207
+    21300416: SpriteBigHatHerokid_208
+    21300418: SpriteBigHatHerokid_209
+    21300420: SpriteBigHatHerokid_210
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: SpriteBigHatHerokid_0
+      rect:
+        serializedVersion: 2
+        x: 1036
+        y: 1034
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: espada
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 67
+        width: 243
+        height: 948
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Brazo izk
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 320
+        width: 110
+        height: 181
+      alignment: 9
+      pivot: {x: .417695761, y: .825125337}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Cuerpo
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 288
+        width: 393
+        height: 279
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Brazo dere
+      rect:
+        serializedVersion: 2
+        x: 916
+        y: 321
+        width: 110
+        height: 181
+      alignment: 9
+      pivot: {x: .417695194, y: .812620401}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pierna izk
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 62
+        width: 185
+        height: 185
+      alignment: 2
+      pivot: {x: .5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pierda dere
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 62
+        width: 185
+        height: 187
+      alignment: 2
+      pivot: {x: .5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Cabeza
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 586
+        width: 707
+        height: 479
+      alignment: 9
+      pivot: {x: .352736592, y: .0463799648}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
